@@ -26,19 +26,8 @@ Atualmente, concentro meus estudos e projetos no desenvolvimento **Front-end** (
   *Loja virtual simples de jogos desenvolvida em dupla para disciplina de Orientação e Objetos.*  
   - Construída utilizando **Python** com o micro-framework **Bottle** e persistência de dados via arquivos **JSON**.
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=italocarlosss&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italocarlosss&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Onde me encontrar
 
 * **Universidade:** Universidade de Brasília (UnB) — FGA
-* **LinkedIn:** [https://www.linkedin.com/in/%C3%ADtalo-santana-50aa22445]
-* **E-mail:** [itacarlosnas@hotmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/%C3%ADtalo-santana-50aa22445
+* **E-mail:** itacarlosnas@hotmail.com
